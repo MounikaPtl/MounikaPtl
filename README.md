@@ -16,7 +16,7 @@ I'm  a former Amazon professional with a strong background in investigation and 
 
 As I pivot into Data Analysis, I bring a meticulous approach to uncovering actionable insights from complex datasets. My goal is to apply my analytical skills and technical proficiency to drive impactful decision-making and strategic improvements in a dynamic IT landscape.
 
-Feel free to check out my resume [here](https://docs.google.com/document/d/[your-resume-id]/edit?usp=sharing).  
+Feel free to check out my resume [here](https://docs.google.com/document/d/1nFu-2pvQRyIR6ijcvC0bqO4PAhTABh6lvJws6xSkC7o/edit?tab=t.0).  
 </p>
 
 ## GitHub Stats
